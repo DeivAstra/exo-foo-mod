@@ -1,7 +1,7 @@
 (
 	:exo-version 1.0
 	:module (
-		:id :foo
+		:id :foo2
 		:version "1.0"
 		:name "Foo demo module"
 		:description "Nothing to add here"
