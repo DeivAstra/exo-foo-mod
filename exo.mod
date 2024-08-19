@@ -1,8 +1,8 @@
 (
 	:exo-version 1.0
 	:module (
-		:id :foo2
-		:version "1.0"
+		:id :foo
+		:version "1.1"
 		:name "Foo demo module"
 		:description "Nothing to add here"
 		:run "foo.lisp"
