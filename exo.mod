@@ -10,7 +10,6 @@
 		:use (:cl)
 		:authors (
 			(:name "Deiv Astra"))
-		:links ()
 	)
 	:properties (
 		:p1 "v1"
