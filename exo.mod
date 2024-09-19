@@ -11,13 +11,4 @@
 		:authors (
 			(:name "Deiv Astra"))
 	)
-	:properties (
-		:p1 "v1"
-		:p2 "v2"
-	)
-	; repositories or modules
-	:sources (
-	)
-	:dependencies (
-	)
 )
